@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Editor as InkeEditor } from "inke";
+import { Editor as InkeEditor } from "inkejs";
 
 export default function Editor() {
   const [saveStatus, setSaveStatus] = useState("Saved");
