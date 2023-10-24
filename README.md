@@ -15,7 +15,10 @@
 
 Inke is a Notion-style WYSIWYG editor with AI-powered autocompletions.
 
-See live demo: [inke-web](https://inke.app)  
+- Live demo: [inke-web](https://inke.app)
+- Document: [How to use Inke](https://inke.app/publish/0e1be533-ae66-4ffa-9725-bd6b84899e78)
+- Share: [Some resources](https://inke.app/publish/96d42936-fff3-4bfe-8887-dc06cb84910c)
+
 
 <img alt="Inke is a Notion-style WYSIWYG editor with AI-powered autocompletions." src="https://inke.app/desktop.png">
 
